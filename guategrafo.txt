@@ -1,0 +1,12 @@
+Guatemala Sacatepequez 30
+Guatemala Chimaltenango 20
+Guatemala SantaRosa 30
+Sacatepequez Chimaltenango 15
+Sacatepequez SantaRosa 20
+Sacatepequez Escuintla 25
+Chimaltenango SantaRosa 15
+Chimaltenango Escuintla 15
+SantaRosa Guatemala 10
+SantaRosa Sacatepequez 20
+Escuintla Chimaltenango 10
+Escuintla SantaRosa 15
