@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class Maker {
 	
 	int vertices = 5;
-	String[] departments = new String[] {"Guatemala", "Sacatepeques", "Chimaltenango", "SantaRosa", "Escuintla"}; 
+	String[] departments = new String[] {"Guatemala", "Sacatepequez", "Chimaltenango", "SantaRosa", "Escuintla"}; 
 	WeightedGraph.Graph graph = new WeightedGraph.Graph(vertices);
 	
 	public void generateGraph() {
