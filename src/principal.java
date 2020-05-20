@@ -18,7 +18,7 @@ public class principal {
 		
 		System.out.println("Seleccione la opcion a utilizar: ");
 		System.out.println("1. Ver la Ruta Mas Corta Entre 2 Departamentos ");
-		System.out.println("2. Nombre de la Ciudad Central ");
+		System.out.println("2. Nombre de la Ciudad Central (Mostrar Grafo)");
 		System.out.println("3. Modificar distancias entre departamentos ");
 		System.out.println("4. Salir ");
 		
@@ -26,16 +26,22 @@ public class principal {
 		
 		//Si se desea la implementacion por hashmap
 		if(opcion==1) {
-			
+			System.out.println("**************************************");
+			System.out.println("No Implementado");
+			System.out.println("**************************************");
 		}
 		//Si se desea la implementacion por splay Tree
 		else if (opcion==2) {
 			Maker make = new Maker();
 			make.generateGraph();
 		}else if (opcion==3) {
-			
+			System.out.println("**************************************");
+			System.out.println("No Implementado");
+			System.out.println("**************************************");
 		}else if (opcion==4) {
-			
+			System.out.println("**************************************");
+			System.out.println("No Implementado");
+			System.out.println("**************************************");
 		}else {
 			System.out.println("**************************************");
 			System.out.println("Ingreso Incorrecto, Intentelo de Nuevo");
